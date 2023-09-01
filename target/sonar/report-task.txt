@@ -1,0 +1,6 @@
+projectKey=demo_Manee1
+serverUrl=http://localhost:9000
+serverVersion=10.1.0.73491
+dashboardUrl=http://localhost:9000/dashboard?id=demo_Manee1
+ceTaskId=AYpPNhuNuKXVevpo7Zvt
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AYpPNhuNuKXVevpo7Zvt
